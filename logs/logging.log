@@ -1,0 +1,16 @@
+2020-12-02 20:00:01,436-[my_log.py-->line:70]-DEBUG:debug日志
+2020-12-02 20:00:01,437-[my_log.py-->line:71]-WARNING:warning日志
+2020-12-02 20:00:01,437-[my_log.py-->line:72]-ERROR:error日志
+2020-12-02 20:00:01,437-[my_log.py-->line:73]-CRITICAL:c日志
+2021-03-02 11:44:15,201-[my_log.py-->line:68]-DEBUG:debug日志
+2021-03-02 11:44:15,201-[my_log.py-->line:69]-WARNING:warning日志
+2021-03-02 11:44:15,201-[my_log.py-->line:70]-ERROR:error日志
+2021-03-02 11:44:15,201-[my_log.py-->line:71]-CRITICAL:c日志
+2021-03-02 11:44:33,220-[my_log.py-->line:69]-DEBUG:debug日志
+2021-03-02 11:44:33,220-[my_log.py-->line:70]-WARNING:warning日志
+2021-03-02 11:44:33,220-[my_log.py-->line:71]-ERROR:error日志
+2021-03-02 11:44:33,220-[my_log.py-->line:72]-CRITICAL:c日志
+2021-03-02 12:14:53,168-[logger.py-->line:44]-INFO:haode
+2021-03-02 12:14:59,726-[logger.py-->line:44]-INFO:haode
+2021-03-02 12:15:11,567-[logger.py-->line:44]-INFO:haode
+2021-03-02 12:15:44,097-[logger.py-->line:44]-INFO:haode
